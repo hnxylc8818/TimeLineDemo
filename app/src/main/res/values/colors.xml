@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="mine_bg_one">#FBB43B</color>
+    <color name="mine_font">#FBB43B</color>
+    <color name="mine_font_little">#95989A</color>
+    <color name="mine_bg_two">#6CCACA</color>
+    <color name="textView_font">#6b6b6b</color>
+    <color name="textView_font_qd">#5899C7</color>
+    <color name="textView_font_mine">#6b6b6b</color>
+    <color name="mine_font_line">#F2F2F2</color>
+</resources>
